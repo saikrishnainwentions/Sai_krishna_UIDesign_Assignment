@@ -52,4 +52,7 @@ How to Navigate the Project
 <img width="1882" height="1091" alt="Screenshot 2025-07-12 115905" src="https://github.com/user-attachments/assets/a2f20d31-c76e-4d6a-a19d-a0fc3718abb3" />
 <img width="1899" height="1057" alt="Screenshot 2025-07-12 115956" src="https://github.com/user-attachments/assets/bb7af8a9-9e87-439f-8571-24182029402d" />
 <img width="1875" height="1055" alt="Screenshot 2025-07-12 115927" src="https://github.com/user-attachments/assets/bc0d95f9-79da-4287-a285-dfbaa747725a" />
-<img width="860" height="667" alt="Screenshot 2025-07-12 105116" src="https://github.com/user-attachments/assets/41fe4f5d-3d6b-4c1b-8a7b-7989dfc8e3a0" />
+<img width="1907" height="1040" alt="Screenshot 2025-07-12 122226" src="https://github.com/user-attachments/assets/64f1eeec-cb23-42de-a340-4c3c86d77ba1" />
+<img width="1875" height="1017" alt="Screenshot 2025-07-12 122344" src="https://github.com/user-attachments/assets/f9f6372a-be24-4e66-b334-27ed3e040884" />
+
+
