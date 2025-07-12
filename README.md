@@ -42,3 +42,14 @@ How to Navigate the Project
 - **Chat:** Try out the chat simulation with support agent responses.
 - **QR Code:** Click "Scan QR" to open a simulated QR code scanner modal.
 - **Settings:** Access the settings UI from the avatar dropdown.
+
+
+
+
+**Screenshots**
+<img width="1885" height="1061" alt="Screenshot 2025-07-12 120021" src="https://github.com/user-attachments/assets/377607cb-87f3-4c1d-96cb-1b0b61586821" />
+<img width="1884" height="1079" alt="Screenshot 2025-07-12 115835" src="https://github.com/user-attachments/assets/8e3bbee0-d29a-4fa6-8871-7d8ec1b3952d" />
+<img width="1882" height="1091" alt="Screenshot 2025-07-12 115905" src="https://github.com/user-attachments/assets/a2f20d31-c76e-4d6a-a19d-a0fc3718abb3" />
+<img width="1899" height="1057" alt="Screenshot 2025-07-12 115956" src="https://github.com/user-attachments/assets/bb7af8a9-9e87-439f-8571-24182029402d" />
+<img width="1875" height="1055" alt="Screenshot 2025-07-12 115927" src="https://github.com/user-attachments/assets/bc0d95f9-79da-4287-a285-dfbaa747725a" />
+<img width="860" height="667" alt="Screenshot 2025-07-12 105116" src="https://github.com/user-attachments/assets/41fe4f5d-3d6b-4c1b-8a7b-7989dfc8e3a0" />
